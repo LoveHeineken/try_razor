@@ -1,0 +1,8 @@
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.csprojAssemblyReference.cache
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/staticwebassets/try_razor.StaticWebAssets.Manifest.cache
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/staticwebassets/try_razor.StaticWebAssets.xml
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.MvcApplicationPartsAssemblyInfo.cache
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.RazorAssemblyInfo.cache
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.RazorAssemblyInfo.cs
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.AssemblyInfoInputs.cache
+/Users/ikeno/Projects/try_razor/obj/Debug/netcoreapp3.0/try_razor.AssemblyInfo.cs
